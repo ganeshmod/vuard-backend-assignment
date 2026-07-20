@@ -1,0 +1,19 @@
+# Binaries
+/bin/
+/server
+/generator
+*.exe
+*.test
+*.out
+
+# Go
+/vendor/
+
+# IDE / OS
+.idea/
+*.swp
+.DS_Store
+
+# Env
+config.bat
+node_modules
